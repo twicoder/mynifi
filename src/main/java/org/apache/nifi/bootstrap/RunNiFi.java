@@ -602,7 +602,7 @@ public class RunNiFi {
 
                 if ( alive ) {
                     try {
-                        Thread.sleep(10000L);
+                        Thread.sleep(1000L);
                     } catch (final InterruptedException ie) {
                     }
                 } else {
