@@ -1,0 +1,19 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-standard-services-api-nar
+
+
+From: 'Apache NiFi (incubating)' (http://nifi.incubator.apache.org/)
+  - nifi-distributed-cache-client-service-api (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-standard-services/nifi-distributed-cache-client-service-api/) org.apache.nifi:nifi-distributed-cache-client-service-api:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-load-distribution-service-api (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-standard-services/nifi-load-distribution-service-api/) org.apache.nifi:nifi-load-distribution-service-api:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-ssl-context-service-api (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-standard-services/nifi-ssl-context-service-api/) org.apache.nifi:nifi-ssl-context-service-api:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+

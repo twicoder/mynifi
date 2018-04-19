@@ -1,0 +1,33 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-provenance-repository-nar
+
+
+From: 'Apache NiFi (incubating)' (http://nifi.incubator.apache.org/)
+  - nifi-data-provenance-utils (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-data-provenance-utils/) org.apache.nifi:nifi-data-provenance-utils:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-persistent-provenance-repository (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-provenance-repository-bundle/nifi-persistent-provenance-repository/) org.apache.nifi:nifi-persistent-provenance-repository:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-utils/) org.apache.nifi:nifi-utils:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-volatile-provenance-repository (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-provenance-repository-bundle/nifi-volatile-provenance-repository/) org.apache.nifi:nifi-volatile-provenance-repository:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Lucene Common Analyzers (http://lucene.apache.org/lucene-parent/lucene-analyzers-common) org.apache.lucene:lucene-analyzers-common:jar:4.10.3
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Core (http://lucene.apache.org/lucene-parent/lucene-core) org.apache.lucene:lucene-core:jar:4.10.3
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Queries (http://lucene.apache.org/lucene-parent/lucene-queries) org.apache.lucene:lucene-queries:jar:4.10.3
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene QueryParsers (http://lucene.apache.org/lucene-parent/lucene-queryparser) org.apache.lucene:lucene-queryparser:jar:4.10.3
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Sandbox (http://lucene.apache.org/lucene-parent/lucene-sandbox) org.apache.lucene:lucene-sandbox:jar:4.10.3
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

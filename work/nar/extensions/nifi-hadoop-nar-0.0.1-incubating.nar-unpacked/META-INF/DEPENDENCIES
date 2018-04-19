@@ -1,0 +1,33 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-hadoop-nar
+
+
+From: 'Apache NiFi (incubating)' (http://nifi.incubator.apache.org/)
+  - nifi-flowfile-packager (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-flowfile-packager/) org.apache.nifi:nifi-flowfile-packager:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-hadoop-libraries-nar (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-hadoop-libraries-bundle/nifi-hadoop-libraries-nar/) org.apache.nifi:nifi-hadoop-libraries-nar:nar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-hdfs-processors (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-hadoop-bundle/nifi-hdfs-processors/) org.apache.nifi:nifi-hdfs-processors:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-processor-utils (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-processor-utils/) org.apache.nifi:nifi-processor-utils:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-security-utils (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-security-utils/) org.apache.nifi:nifi-security-utils:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-utils/) org.apache.nifi:nifi-utils:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons IO (http://commons.apache.org/io/) commons-io:commons-io:jar:2.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Compress (http://commons.apache.org/proper/commons-compress/) org.apache.commons:commons-compress:jar:1.9
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.3.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

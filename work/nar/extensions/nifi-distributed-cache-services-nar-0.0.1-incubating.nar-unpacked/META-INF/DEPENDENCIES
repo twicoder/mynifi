@@ -1,0 +1,33 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-distributed-cache-services-nar
+
+
+From: 'Apache NiFi (incubating)' (http://nifi.incubator.apache.org/)
+  - nifi-distributed-cache-client-service (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-standard-services/nifi-distributed-cache-services-bundle/nifi-distributed-cache-client-service/) org.apache.nifi:nifi-distributed-cache-client-service:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-distributed-cache-protocol (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-standard-services/nifi-distributed-cache-services-bundle/nifi-distributed-cache-protocol/) org.apache.nifi:nifi-distributed-cache-protocol:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-distributed-cache-server (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-standard-services/nifi-distributed-cache-services-bundle/nifi-distributed-cache-server/) org.apache.nifi:nifi-distributed-cache-server:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-processor-utils (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-processor-utils/) org.apache.nifi:nifi-processor-utils:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-security-utils (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-security-utils/) org.apache.nifi:nifi-security-utils:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-standard-services-api-nar (http://nifi.incubator.apache.org/maven-site/nifi-nar-bundles/nifi-standard-services/nifi-standard-services-api-nar/) org.apache.nifi:nifi-standard-services-api-nar:nar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-utils/) org.apache.nifi:nifi-utils:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-write-ahead-log (http://nifi.incubator.apache.org/maven-site/nifi-commons/nifi-write-ahead-log/) org.apache.nifi:nifi-write-ahead-log:jar:0.0.1-incubating
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.3.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
